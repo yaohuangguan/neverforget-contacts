@@ -2,7 +2,8 @@
 
 use this contact book and you never forget what contacts you have
 
-#How to use
-##npm install
+# How to use
 
-##npm run dev
+## npm install
+
+## npm run dev
